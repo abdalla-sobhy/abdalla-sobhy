@@ -31,8 +31,6 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 
 ## ⚙️ Tech Stack & Tools
 
-## ⚙️ Tech Stack & Tools
-
 <div align="center">
 
 <!-- Languages -->
