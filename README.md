@@ -38,7 +38,7 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 <br><br>
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite" />
 <br><br>
 
 <!-- Backend -->
