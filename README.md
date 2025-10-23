@@ -1,35 +1,35 @@
-## 👨💻 About Me
+## About Me
 
 I'm a self-driven **Full Stack Developer**, passionate about building scalable, efficient, and real-world web applications.
 
-🐞 Debugging my own bugs since **2023**  
-📚 Currently, the team leader of the Digital Egypt Pioneers Initiative's front-end track internship.
-👨 The leader of my university graduation project.
-🌐 [Check out my portfolio](https://portfolio-ruddy-six-fcf5eumi8h.vercel.app/)
+- Debugging my own bugs since **2023**  
+- Currently, the team leader of the Digital Egypt Pioneers Initiative's front-end track internship.
+- The leader of my university graduation project.
+- [Check out my portfolio](https://portfolio-ruddy-six-fcf5eumi8h.vercel.app/)
 
 
-## 🚀 Projects
+## Projects
 
-### 📚 [𝗦𝘁𝗼𝗿𝗲𝗜𝘁](https://l1nk.dev/QpscY)
+### [𝗦𝘁𝗼𝗿𝗲𝗜𝘁](https://l1nk.dev/QpscY)
 A file storage and management system that enables users to securely upload, organize, share, and access their files from anywhere. Whether it’s documents, images, or videos, StoreIt makes file storage simple and efficient.
 
-### 🛒 [𝗟𝗨𝗭𝗨𝗥𝗔](https://acesse.one/fzQ56)
+### [𝗟𝗨𝗭𝗨𝗥𝗔](https://acesse.one/fzQ56)
 A full-featured e-commerce platform built with React and Laravel(PHP). Includes user auth, shopping cart, profile handling, and more.
 
-### 📚 [JustPost](https://acesse.one/e8JGG)
+### [JustPost](https://acesse.one/e8JGG)
 Just Post is a platform that lets you create, edit, and delete your posts with ease.
 
-### 📝 [Resume Builder](https://acesse.one/g8GAM)
+### [Resume Builder](https://acesse.one/g8GAM)
 A featured resume-building platform where users can choose, save, and edit their templates.
 
-### 🔗 [Space Tourism](https://l1nk.dev/83pjD)
+### [Space Tourism](https://l1nk.dev/83pjD)
 A responsive web project showcasing a futuristic space travel experience, built with HTML, CSS, and JavaScript.
 
-### 🎥 [YouTube Clone](https://acesse.one/10Ygc)
+### [YouTube Clone](https://acesse.one/10Ygc)
 YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main and video pages using HTML, CSS, and JavaScript.
 
 
-## ⚙️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -62,7 +62,7 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -79,6 +79,6 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 </div>
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-sobhy-6488932a1/)
