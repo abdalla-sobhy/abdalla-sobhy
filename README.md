@@ -102,6 +102,16 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 </div>
 
 
-## Connect With Me
+## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-sobhy-6488932a1/)
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-7lga.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-sobhy-6488932a1/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201550328625)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahbs9393@gmail.com)
+
+</div>
+
+---
+*“Building scalable systems and turning ideas into production-ready code.”*
