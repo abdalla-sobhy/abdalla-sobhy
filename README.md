@@ -102,7 +102,7 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 </div>
 
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="left">
 
