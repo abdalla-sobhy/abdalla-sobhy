@@ -1,11 +1,11 @@
 ## About Me
 
-I'm a self-driven **Full Stack Developer**, passionate about building scalable, efficient, and real-world web applications.
+## About Me
+I'm a **Full Stack Developer** focused on building scalable, real-world web applications — from architecting backends to crafting polished frontends.
 
-- Debugging my own bugs since **2023**  
-- Currently, the team leader of the Digital Egypt Pioneers Initiative's front-end track internship.
-- The leader of my university graduation project.
-- [Check out my portfolio](https://portfolio-7lga.vercel.app/)
+- Leading the development of **The Artisanal Archive** — an Integrated Creator Economy Platform (ICEP) for the Egyptian handmade-craft market, fusing e-commerce, commissions, social sharing, and course creation into a single product
+- Experienced across the stack: **Next.js · Laravel · TypeScript · MySQL**
+- [Portfolio](https://portfolio-7lga.vercel.app/)
 
 
 ## Work Experience
