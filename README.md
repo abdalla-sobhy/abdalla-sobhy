@@ -8,6 +8,28 @@ I'm a self-driven **Full Stack Developer**, passionate about building scalable, 
 - [Check out my portfolio](https://portfolio-7lga.vercel.app/)
 
 
+## Work Experience
+
+### Full-Stack Developer Intern — Digital Egypt Pioneers Initiative (DEPI)
+**Edvance - ACE Platform** | Jul 2025 – Dec 2025
+
+Built a comprehensive platform combining a job board and LMS using Next.js 15, React 19, TypeScript, Tailwind CSS, Laravel 12, and PHP 8.2+. Designed a normalized database schema with 50+ tables supporting 6 user roles. Built 100+ RESTful API endpoints and integrated 8 third-party services including Stripe, Google Gemini AI, Pusher, and Jitsi. Collaborated with a 4-member Agile team and deployed on Vercel.
+
+---
+
+### Frontend Developer — International Knowledge Academy
+**Egypt** | Oct 2025 – Dec 2025
+
+Built a comprehensive LMS platform using React, Next.js, TypeScript, and Tailwind CSS. Implemented role-based dashboards for 4 user types (Teacher, Assistant, Student, Admin) and optimized performance via code splitting and lazy loading.
+
+---
+
+### WordPress Developer — ZidClean
+**Cleaning Services Platform, Saudi Arabia** | Sep 2025 – Oct 2025
+
+Developed a 150+ page cleaning services platform for the Saudi market. Built 120 SEO-optimized blog posts, integrated Stripe & PayPal with custom PHP modifications, and delivered the full project in 5 days.
+
+
 ## Projects
 
 ### [𝗦𝘁𝗼𝗿𝗲𝗜𝘁](https://l1nk.dev/QpscY)
