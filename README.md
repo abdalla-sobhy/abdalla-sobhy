@@ -5,7 +5,7 @@ I'm a self-driven **Full Stack Developer**, passionate about building scalable, 
 - Debugging my own bugs since **2023**  
 - Currently, the team leader of the Digital Egypt Pioneers Initiative's front-end track internship.
 - The leader of my university graduation project.
-- [Check out my portfolio](https://portfolio-ruddy-six-fcf5eumi8h.vercel.app/](https://portfolio-7lga.vercel.app/)
+- [Check out my portfolio](https://portfolio-7lga.vercel.app/)
 
 
 ## Projects
