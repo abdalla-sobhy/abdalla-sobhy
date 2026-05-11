@@ -88,15 +88,18 @@ YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main 
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdalla-sobhy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://readme-stats.clckblog.space/api?username=abdalla-sobhy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 <br><br>
 
+<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com/?user=abdalla-sobhy&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdalla-sobhy&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+<!-- Top Languages -->
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=abdalla-sobhy&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 
 </div>
 
