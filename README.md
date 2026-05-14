@@ -11,7 +11,9 @@ I'm a **Full Stack Developer** focused on building scalable, real-world web appl
 ### Full-Stack Developer Intern - Digital Egypt Pioneers Initiative (DEPI)
 **Edvance - ACE Platform** | Jul 2025 - Dec 2025
 
-Built a comprehensive platform combining a job board and LMS using Next.js 15, React 19, TypeScript, Tailwind CSS, Laravel 12, and PHP 8.2+. Designed a normalized database schema with 50+ tables supporting 6 user roles. Built 100+ RESTful API endpoints and integrated 8 third-party services including Stripe, Google Gemini AI, Pusher, and Jitsi. Collaborated with a 4-member Agile team and deployed on Vercel.
+Built a comprehensive platform combining a job board and LMS using Next.js 15, React 19, TypeScript, Tailwind CSS, Laravel 12, and PHP 8.2+. Designed a normalized database schema with 50+ tables supporting 6 user roles. Built 100+ RESTful API endpoints and integrated 8 third-party services including Stripe, Google Gemini AI, Pusher, and Jitsi. Led a 4-member Agile team as Team Lead while serving as Group Leader overseeing 28 developers across the DEPI cohort. Deployed on Vercel with full API and technical documentation.
+
+**Honors:** [React Frontend Web Developer Achievement](https://drive.google.com/file/d/1RB51l1nwUlJJM_M1bzQR3UuWM-C6Fil9/view?usp=sharing) · [Team Leader Appreciation](https://drive.google.com/file/d/1x0DeRE5xqT8tbapxpTtk0xdokHKFwA2X/view?usp=sharing) · [Top Student Award](https://drive.google.com/file/d/1aEO-Qeo7bnr7eDcthT4L8z6UFcyRorh_/view?usp=sharing)
 
 ---
 
