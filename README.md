@@ -1,5 +1,5 @@
 ## About Me
-I'm a **Full Stack Developer** focused on building scalable, real-world web applications — from architecting backends to crafting polished frontends.
+I'm a **Full Stack Developer** focused on building scalable, real-world web applications, from architecting backends to crafting polished frontends.
 
 - Leading the development of **The Artisanal Archive**, an Integrated Creator Economy Platform (ICEP) for the Egyptian handmade-craft market, fusing e-commerce, commissions, social sharing, and course creation into a single product
 - Experienced across the stack: **Next.js · Laravel · TypeScript · MySQL**
