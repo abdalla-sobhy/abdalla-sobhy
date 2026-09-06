@@ -47,7 +47,7 @@ A featured resume-building platform where users can choose, save, and edit their
 ### [Space Tourism](https://l1nk.dev/83pjD)
 A responsive web project showcasing a futuristic space travel experience, built with HTML, CSS, and JavaScript.
 
-### [YouTube Clone](https://acesse.one/10Ygc)
+### [YouTube Clone](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_youtube-frontend-hardfrontendprojects-activity-7220861564856221697-a8Ci?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main and video pages using HTML, CSS, and JavaScript.
 
 
