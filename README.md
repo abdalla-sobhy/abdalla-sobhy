@@ -32,16 +32,16 @@ Developed a 150+ page cleaning services platform for the Saudi market. Built 120
 
 ## Projects
 
-### [𝗦𝘁𝗼𝗿𝗲𝗜𝘁](https://l1nk.dev/QpscY)
+### [𝗦𝘁𝗼𝗿𝗲𝗜𝘁](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_webdevelopment-fullstack-laravel-activity-7293270451366064128-xO0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 A file storage and management system that enables users to securely upload, organize, share, and access their files from anywhere. Whether it’s documents, images, or videos, StoreIt makes file storage simple and efficient.
 
-### [𝗟𝗨𝗭𝗨𝗥𝗔](https://acesse.one/fzQ56)
+### [𝗟𝗨𝗭𝗨𝗥𝗔](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_ecommerce-webdevelopment-programming-activity-7265405877531107329-Mxxn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 A full-featured e-commerce platform built with React and Laravel(PHP). Includes user auth, shopping cart, profile handling, and more.
 
-### [JustPost](https://acesse.one/e8JGG)
+### [JustPost](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_laravel-php-bigproject-activity-7243178346895839233-zGhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 Just Post is a platform that lets you create, edit, and delete your posts with ease.
 
-### [Resume Builder](https://acesse.one/g8GAM)
+### [Resume Builder](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_codeclause-intermediatelevelproject-internship-activity-7232027274974269442-f3Wk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 A featured resume-building platform where users can choose, save, and edit their templates.
 
 ### [Space Tourism](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_spacetourism-html-css-activity-7225451685983191042-kqLF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
