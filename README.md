@@ -44,10 +44,10 @@ Just Post is a platform that lets you create, edit, and delete your posts with e
 ### [Resume Builder](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_codeclause-intermediatelevelproject-internship-activity-7232027274974269442-f3Wk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
 A featured resume-building platform where users can choose, save, and edit their templates.
 
-### [Space Tourism](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_spacetourism-html-css-activity-7225451685983191042-kqLF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
+### [Space Tourism](https://space-tourism-two-rho.vercel.app/)
 A responsive web project showcasing a futuristic space travel experience, built with HTML, CSS, and JavaScript.
 
-### [YouTube Clone](https://www.linkedin.com/posts/abdallah-sobhy-6488932a1_youtube-frontend-hardfrontendprojects-activity-7220861564856221697-a8Ci?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjsYNgBUpX7clbBXVsrCbltYcF6ZWfEDe8)
+### [YouTube Clone](https://front-end-youtube-tath.vercel.app/)
 YouTube Clone is a fully responsive, pixel-perfect recreation of YouTube's main and video pages using HTML, CSS, and JavaScript.
 
 
